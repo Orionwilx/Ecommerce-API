@@ -1,0 +1,405 @@
+{
+    "product":[
+        {
+            "id":1,
+            "title":"Seamaster 300",
+            "price":"$100",
+            "category":"relog",
+            "description":"Articulode belleza que brinda la hora",
+            "image":""
+        },
+        {
+            "id": 2,
+            "title": "Horizon Elite",
+            "price": "$249",
+            "category": "relog",
+            "description": "Un reloj sofisticado que combina estilo y funcionalidad para los amantes de la elegancia.",
+            "image": ""
+        },        
+        {
+            "id": 3,
+            "title": "Radiant Glow",
+            "price": "$129",
+            "category": "relog",
+            "description": "Un reloj deslumbrante que iluminará tu muñeca con su diseño moderno y detalles brillantes.",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "title": "Serenity Blue",
+            "price": "$79",
+            "category": "relog",
+            "description": "Un reloj tranquilo y elegante en tonos azules, que te recordará la serenidad en cada momento.",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "title": "Timeless Classic",
+            "price": "$299",
+            "category": "relog",
+            "description": "Un reloj clásico y atemporal que refleja la sofisticación y la historia de la relojería.",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "title": "Infinity Quest",
+            "price": "$219",
+            "category": "relog",
+            "description": "Un reloj que simboliza la búsqueda infinita del tiempo y la aventura en cada momento de la vida.",
+            "image": ""
+        },        
+        {
+            "id": 7,
+            "title": "Aurora Eclipse",
+            "price": "$189",
+            "category": "relog",
+            "description": "Un reloj único inspirado en la belleza de los fenómenos astronómicos, que te llevará a un viaje en el tiempo.",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "title": "Nature's Charm",
+            "price": "$59",
+            "category": "pulsera",
+            "description": "Una pulsera inspirada en la naturaleza, con encantadores detalles que evocan la belleza del entorno natural.",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "title": "Serenity Stones",
+            "price": "$79",
+            "category": "pulsera",
+            "description": "Una pulsera con piedras semipreciosas que te conectará con la tranquilidad y la armonía interior.",
+            "image": ""
+        },
+        {
+            "id":10,
+            "title": "Harmony Breeze",
+            "price": "$69",
+            "category": "pulsera",
+            "description": "Una pulsera ligera y elegante que te envolverá en una sensación de armonía y frescura.",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "title": "Golden Radiance",
+            "price": "$99",
+            "category": "pulsera",
+            "description": "Una pulsera dorada que irradiará un brillo cálido y te hará brillar en cualquier ocasión.",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "title": "Timeless Pearl",
+            "price": "$129",
+            "category": "pulsera",
+            "description": "Una pulsera clásica con perlas delicadas que añadirá un toque de sofisticación a tu estilo.",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "title": "Ocean Breeze",
+            "price": "$79",
+            "category": "pulsera",
+            "description": "Una pulsera inspirada en los tonos del mar, que te transportará a la frescura y serenidad de la playa.",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "title": "Charming Charms",
+            "price": "$49",
+            "category": "pulsera",
+            "description": "Una pulsera llena de encanto con diferentes dijes que expresarán tu personalidad única.",
+            "image": ""
+        },        
+        {
+            "id": 15,
+            "title": "Eternal Glam",
+            "price": "$89",
+            "category": "pulsera",
+            "description": "Una pulsera deslumbrante con cristales brillantes que añadirá un toque de elegancia a tu muñeca.",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "title": "Sparkling Stars",
+            "price": "$99",
+            "category": "collar",
+            "description": "Un collar brillante con estrellas deslumbrantes que iluminarán tu estilo.",
+            "image": ""
+        },
+        {
+            "id": 17,
+            "title": "Vintage Elegance",
+            "price": "$149",
+            "category": "collar",
+            "description": "Un collar de estilo vintage que evoca la elegancia y el encanto del pasado.",
+            "image": ""
+        },
+        {
+            "id": 18,
+            "title": "Ocean Treasures",
+            "price": "$89",
+            "category": "collar",
+            "description": "Un collar con encantadores detalles marinos que te conectará con el misterio del océano.",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "title": "Dainty Petals",
+            "price": "$79",
+            "category": "collar",
+            "description": "Un collar delicado con colgantes en forma de pétalos, que añadirá un toque romántico a tu estilo.",
+            "image": ""
+        },
+        {
+            "id": 20,
+            "title": "Glamour Affair",
+            "price": "$199",
+            "category": "collar",
+            "description": "Un collar deslumbrante que capturará todas las miradas con su brillo y glamour.",
+            "image": ""
+        },
+        {
+            "id": 21,
+            "title": "Mystic Charms",
+            "price": "$109",
+            "category": "collar",
+            "description": "Un collar lleno de encanto y misterio con diversos dijes que te contarán historias secretas.",
+            "image": ""
+        },
+        {
+            "id": 22,
+            "title": "Moonlight Glow",
+            "price": "$129",
+            "category": "collar",
+            "description": "Un collar elegante con un colgante en forma de luna que refleja la luz de la noche.",
+            "image": ""
+        },
+        {
+            "id": 23,
+            "title": "Sparkling Solitaire",
+            "price": "$99",
+            "category": "anillo",
+            "description": "Un anillo deslumbrante con un solitario brillante que capturará todas las miradas.",
+            "image": ""
+        },
+        {
+            "id": 24,
+            "title": "Vintage Glamour",
+            "price": "$129",
+            "category": "anillo",
+            "description": "Un anillo de estilo vintage con detalles elegantes que añadirá un toque de glamour a tu estilo.",
+            "image": ""
+        },        
+        {
+            "id": 25,
+            "title": "Eternal Love",
+            "price": "$89",
+            "category": "anillo",
+            "description": "Un anillo delicado y romántico que simboliza el amor eterno.",
+            "image": ""
+        },
+        {
+            "id": 26,
+            "title": "Nature's Beauty",
+            "price": "$79",
+            "category": "anillo",
+            "description": "Un anillo inspirado en la belleza de la naturaleza, con detalles florales encantadores.",
+            "image": ""
+        },
+        {
+            "id": 27,
+            "title": "Dainty Pearls",
+            "price": "$89",
+            "category": "anillo",
+            "description": "Un anillo delicado con perlas naturales que añadirá un toque de elegancia a tus manos.",
+            "image": ""
+        },
+        {
+            "id": 28,
+            "title": "Timeless Elegance",
+            "price": "$149",
+            "category": "anillo",
+            "description": "Un anillo clásico y atemporal que refleja la elegancia y la sofisticación.",
+            "image": ""
+        },
+        {
+            "id": 29,
+            "title": "Modern Statement",
+            "price": "$109",
+            "category": "anillo",
+            "description": "Un anillo moderno y llamativo que hará una declaración audaz en tus manos.",
+            "image": ""
+        },
+        {
+            "id": 30,
+            "title": "Wireless Beats",
+            "price": "$149",
+            "category": "auriculares",
+            "description": "Auriculares inalámbricos con calidad de sonido excepcional y diseño moderno.",
+            "image": ""
+        },
+        {
+            "id": 31,
+            "title": "Noise-Canceling Pro",
+            "price": "$199",
+            "category": "auriculares",
+            "description": "Auriculares con cancelación de ruido que te sumergirán en una experiencia de audio sin interrupciones.",
+            "image": ""
+        },
+        {
+            "id": 32,
+            "title": "Sporty Earbuds",
+            "price": "$79",
+            "category": "auriculares",
+            "description": "Auriculares deportivos resistentes al agua y con ajuste seguro para acompañarte en tus entrenamientos.",
+            "image": ""
+        },
+        {
+            "id": 33,
+            "title": "Premium Soundstage",
+            "price": "$249",
+            "category": "auriculares",
+            "description": "Auriculares de alta gama que ofrecen una experiencia de sonido envolvente y detallado.",
+            "image": ""
+        },
+        {
+            "id": 34,
+            "title": "Fashionable Earphones",
+            "price": "$69",
+            "category": "auriculares",
+            "description": "Auriculares elegantes con un diseño atractivo y calidad de audio excepcional.",
+            "image": ""
+        },
+        {
+            "id": 35,
+            "title": "Compact Earbuds",
+            "price": "$59",
+            "category": "auriculares",
+            "description": "Auriculares compactos y ligeros ideales para llevar contigo a todas partes.",
+            "image": ""
+        },
+        {
+            "id": 36,
+            "title": "Gaming Headset",
+            "price": "$129",
+            "category": "auriculares",
+            "description": "Auriculares diseñados especialmente para gaming, con sonido envolvente y micrófono integrado.",
+            "image": ""
+        },
+        {
+            "id": 37,
+            "title": "Shimmering Pearls",
+            "price": "$59",
+            "category": "aretes",
+            "description": "Aretes elegantes con perlas brillantes que añadirán un toque de sofisticación a tus orejas.",
+            "image": ""
+        },
+        {
+            "id": 38,
+            "title": "Sparkling Crystals",
+            "price": "$49",
+            "category": "aretes",
+            "description": "Aretes deslumbrantes con cristales brillantes que capturarán la luz y la atención de todos.",
+            "image": ""
+        },
+        {
+            "id": 39,
+            "title": "Minimalist Studs",
+            "price": "$39",
+            "category": "aretes",
+            "description": "Aretes minimalistas y versátiles que complementarán cualquier estilo con elegancia sencilla.",
+            "image": ""
+        },
+        {
+            "id": 40,
+            "title": "Boho Dangles",
+            "price": "$69",
+            "category": "aretes",
+            "description": "Aretes bohemios con detalles colgantes que añadirán un toque de estilo libre y relajado a tus looks.",
+            "image": ""
+        },
+        {
+            "id": 41,
+            "title": "Chic Hoops",
+            "price": "$79",
+            "category": "aretes",
+            "description": "Aretes de aro elegantes y versátiles que se convertirán en tus favoritos para cualquier ocasión.",
+            "image": ""
+        },
+        {
+            "id": 42,
+            "title": "Statement Tassels",
+            "price": "$89",
+            "category": "aretes",
+            "description": "Aretes llamativos con borlas coloridas que añadirán un toque de diversión y estilo a tus orejas.",
+            "image": ""
+        },
+        {
+            "id": 43,
+            "title": "Classic Pearls",
+            "price": "$59",
+            "category": "aretes",
+            "description": "Aretes clásicos con perlas atemporales que nunca pasan de moda y siempre se ven elegantes.",
+            "image": ""
+        },
+        {
+            "id": 44,
+            "title": "Stainless Steel Stud",
+            "price": "$19",
+            "category": "piercing",
+            "description": "Stylish stainless steel stud piercing that adds a touch of edge to your look.",
+            "image": ""
+        },
+        {
+            "id": 45,
+            "title": "Hoop Nose Ring",
+            "price": "$15",
+            "category": "piercing",
+            "description": "Classic hoop nose ring made of high-quality materials for a comfortable and fashionable fit.",
+            "image": ""
+        },
+        {
+            "id": 46,
+            "title": "Dangling Belly Ring",
+            "price": "$25",
+            "category": "piercing",
+            "description": "Trendy belly ring with a dangling charm that adds a playful and stylish touch to your midriff.",
+            "image": ""
+        },
+        {
+            "id": 47,
+            "title": "Lip Labret",
+            "price": "$18",
+            "category": "piercing",
+            "description": "Sleek and versatile lip labret piercing for adding a subtle yet cool detail to your smile.",
+            "image": ""
+        },
+        {
+            "id": 48,
+            "title": "Cartilage Stud",
+            "price": "$20",
+            "category": "piercing",
+            "description": "Trendy cartilage stud piercing that adds a touch of sparkle and style to your ear stack.",
+            "image": ""
+        },
+        {
+            "id": 49,
+            "title": "Tragus Ring",
+            "price": "$16",
+            "category": "piercing",
+            "description": "Chic tragus ring crafted with attention to detail for a fashionable and unique ear accessory.",
+            "image": ""
+        },
+        {
+            "id": 50,
+            "title": "Septum Clicker",
+            "price": "$22",
+            "category": "piercing",
+            "description": "Bold and stylish septum clicker piercing that adds an edgy statement to your overall look.",
+            "image": ""
+        }
+            
+    ]
+}
