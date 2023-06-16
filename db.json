@@ -6,7 +6,7 @@
             "price":"$100",
             "category":"relog",
             "description":"Articulode belleza que brinda la hora",
-            "image":"https://www.dropbox.com/s/3g7gc9siv7h9uq0/reloj-1.webp?dl=0"
+            "image":"https://www.dropbox.com/s/3g7gc9siv7h9uq0/reloj-1.webp?raw=1"
         },
         {
             "id": 2,
@@ -14,15 +14,15 @@
             "price": "$249",
             "category": "relog",
             "description": "Un reloj sofisticado que combina estilo y funcionalidad para los amantes de la elegancia.",
-            "image": "https://www.dropbox.com/s/tfo50omo10h5xcj/reloj-2.webp?dl=0"
+            "image": "https://www.dropbox.com/s/tfo50omo10h5xcj/reloj-2.webp?raw=1"
         },        
         {
             "id": 3,
             "title": "Radiant Glow",
             "price": "$129",
-            "category": "relog",
+            "category": "rellog",
             "description": "Un reloj deslumbrante que iluminará tu muñeca con su diseño moderno y detalles brillantes.",
-            "image": "https://www.dropbox.com/s/lw23u9imzqlcy3f/reloj-3.webp?dl=0"
+            "image": "https://www.dropbox.com/s/lw23u9imzqlcy3f/reloj-3.webp?raw=1"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "price": "$79",
             "category": "relog",
             "description": "Un reloj tranquilo y elegante en tonos azules, que te recordará la serenidad en cada momento.",
-            "image": "https://www.dropbox.com/s/b5zyew59qgl1v30/reloj-4.webp?dl=0"
+            "image": "https://www.dropbox.com/s/b5zyew59qgl1v30/reloj-4.webp?raw=1"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "price": "$299",
             "category": "relog",
             "description": "Un reloj clásico y atemporal que refleja la sofisticación y la historia de la relojería.",
-            "image": "https://www.dropbox.com/s/tu7gjvpqxmsidbu/reloj-5.webp?dl=0"
+            "image": "https://www.dropbox.com/s/tu7gjvpqxmsidbu/reloj-5.webp?raw=1"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "price": "$219",
             "category": "relog",
             "description": "Un reloj que simboliza la búsqueda infinita del tiempo y la aventura en cada momento de la vida.",
-            "image": "https://www.dropbox.com/s/hwsmk42eb7pqsmg/reloj-6.webp?dl=0"
+            "image": "https://www.dropbox.com/s/hwsmk42eb7pqsmg/reloj-6.webp?raw=1"
         },        
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "price": "$189",
             "category": "relog",
             "description": "Un reloj único inspirado en la belleza de los fenómenos astronómicos, que te llevará a un viaje en el tiempo.",
-            "image": "https://www.dropbox.com/s/d3dzcrxfqpal7y2/reloj-7.webp?dl=0"
+            "image": "https://www.dropbox.com/s/d3dzcrxfqpal7y2/reloj-7.webp?raw=1"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "price": "$59",
             "category": "relog",
             "description": "Una relog inspirado en la naturaleza, con encantadores detalles que evocan la belleza del entorno natural.",
-            "image": "https://www.dropbox.com/s/zu918r0y99j2yup/reloj-8.webp?dl=0"
+            "image": "https://www.dropbox.com/s/zu918r0y99j2yup/reloj-8.webp?raw=1"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "price": "$79",
             "category": "pulsera",
             "description": "Una pulsera con piedras semipreciosas que te conectará con la tranquilidad y la armonía interior.",
-            "image": "https://www.dropbox.com/s/zs9iukr41pknmft/pulsera-1.webp?dl=0"
+            "image": "https://www.dropbox.com/s/zs9iukr41pknmft/pulsera-1.webp?raw=1"
         },
         {
             "id":10,
@@ -78,7 +78,7 @@
             "price": "$69",
             "category": "pulsera",
             "description": "Una pulsera ligera y elegante que te envolverá en una sensación de armonía y frescura.",
-            "image": "https://www.dropbox.com/s/86iegyoz3x6dv3y/pulsera-2.webp?dl=0"
+            "image": "https://www.dropbox.com/s/86iegyoz3x6dv3y/pulsera-2.webp?raw=1"
         },
         {
             "id": 11,
@@ -86,7 +86,7 @@
             "price": "$99",
             "category": "pulsera",
             "description": "Una pulsera dorada que irradiará un brillo cálido y te hará brillar en cualquier ocasión.",
-            "image": "https://www.dropbox.com/s/dxvpr0z42aablk5/pulsera-3.webp?dl=0"
+            "image": "https://www.dropbox.com/s/dxvpr0z42aablk5/pulsera-3.webp?raw=1"
         },
         {
             "id": 12,
@@ -94,7 +94,7 @@
             "price": "$129",
             "category": "pulsera",
             "description": "Una pulsera clásica con perlas delicadas que añadirá un toque de sofisticación a tu estilo.",
-            "image": "https://www.dropbox.com/s/d4gzdyqv8peaf6d/pulsera-4.webp?dl=0"
+            "image": "https://www.dropbox.com/s/d4gzdyqv8peaf6d/pulsera-4.webp?raw=1"
         },
         {
             "id": 13,
@@ -102,7 +102,7 @@
             "price": "$79",
             "category": "pulsera",
             "description": "Una pulsera inspirada en los tonos del mar, que te transportará a la frescura y serenidad de la playa.",
-            "image": "https://www.dropbox.com/s/37j3puykuz9x76v/pulsera-5.webp?dl=0"
+            "image": "https://www.dropbox.com/s/37j3puykuz9x76v/pulsera-5.webp?raw=1"
         },
         {
             "id": 14,
@@ -110,7 +110,7 @@
             "price": "$49",
             "category": "pulsera",
             "description": "Una pulsera llena de encanto con diferentes dijes que expresarán tu personalidad única.",
-            "image": "https://www.dropbox.com/s/m3l3i14mj2dyzdg/pulsera-6.webp?dl=0"
+            "image": "https://www.dropbox.com/s/m3l3i14mj2dyzdg/pulsera-6.webp?raw=1"
         },        
         {
             "id": 15,
@@ -118,7 +118,7 @@
             "price": "$89",
             "category": "pulsera",
             "description": "Una pulsera deslumbrante con cristales brillantes que añadirá un toque de elegancia a tu muñeca.",
-            "image": "https://www.dropbox.com/s/9him2rq8mj3pw86/pulsera-7.webp?dl=0"
+            "image": "https://www.dropbox.com/s/9him2rq8mj3pw86/pulsera-7.webp?raw=1"
         },
         {
             "id": 16,
@@ -126,7 +126,7 @@
             "price": "$99",
             "category": "collar",
             "description": "Un collar brillante con estrellas deslumbrantes que iluminarán tu estilo.",
-            "image": "https://www.dropbox.com/s/xlaijm09qdjhwnq/collar-1.webp?dl=0"
+            "image": "https://www.dropbox.com/s/xlaijm09qdjhwnq/collar-1.webp?raw=1"
         },
         {
             "id": 17,
@@ -134,7 +134,7 @@
             "price": "$149",
             "category": "collar",
             "description": "Un collar de estilo vintage que evoca la elegancia y el encanto del pasado.",
-            "image": "https://www.dropbox.com/s/mqn9p7zzp76hg9p/collar-2.webp?dl=0"
+            "image": "https://www.dropbox.com/s/mqn9p7zzp76hg9p/collar-2.webp?raw=1"
         },
         {
             "id": 18,
@@ -142,7 +142,7 @@
             "price": "$89",
             "category": "collar",
             "description": "Un collar con encantadores detalles marinos que te conectará con el misterio del océano.",
-            "image": "https://www.dropbox.com/s/9xt3rkmpnu546wc/collar-3.webp?dl=0"
+            "image": "https://www.dropbox.com/s/9xt3rkmpnu546wc/collar-3.webp?raw=1"
         },
         {
             "id": 19,
@@ -150,7 +150,7 @@
             "price": "$79",
             "category": "collar",
             "description": "Un collar delicado con colgantes en forma de pétalos, que añadirá un toque romántico a tu estilo.",
-            "image": "https://www.dropbox.com/s/quy7ilvphsad59l/collar-4.webp?dl=0"
+            "image": "https://www.dropbox.com/s/quy7ilvphsad59l/collar-4.webp?raw=1"
         },
         {
             "id": 20,
@@ -158,7 +158,7 @@
             "price": "$199",
             "category": "collar",
             "description": "Un collar deslumbrante que capturará todas las miradas con su brillo y glamour.",
-            "image": "https://www.dropbox.com/s/7m1owzsasgzt7pu/collar-5.webp?dl=0"
+            "image": "https://www.dropbox.com/s/7m1owzsasgzt7pu/collar-5.webp?raw=1"
         },
         {
             "id": 21,
@@ -166,7 +166,7 @@
             "price": "$109",
             "category": "collar",
             "description": "Un collar lleno de encanto y misterio con diversos dijes que te contarán historias secretas.",
-            "image": "https://www.dropbox.com/s/tebz36rltp883ck/collar-6.webp?dl=0"
+            "image": "https://www.dropbox.com/s/tebz36rltp883ck/collar-6.webp?raw=1"
         },
         {
             "id": 22,
@@ -174,7 +174,7 @@
             "price": "$129",
             "category": "collar",
             "description": "Un collar elegante con un colgante en forma de luna que refleja la luz de la noche.",
-            "image": "https://www.dropbox.com/s/1gm3fmuj8dzq3ge/collar-7.webp?dl=0"
+            "image": "https://www.dropbox.com/s/1gm3fmuj8dzq3ge/collar-7.webp?raw=1"
         },
         {
             "id": 23,
@@ -182,7 +182,7 @@
             "price": "$99",
             "category": "anillo",
             "description": "Un anillo deslumbrante con un solitario brillante que capturará todas las miradas.",
-            "image": "https://www.dropbox.com/s/ndgwqgevk1c5atb/anillo-1.webp?dl=0"
+            "image": "https://www.dropbox.com/s/ndgwqgevk1c5atb/anillo-1.webp?raw=1"
         },
         {
             "id": 24,
@@ -190,7 +190,7 @@
             "price": "$129",
             "category": "anillo",
             "description": "Un anillo de estilo vintage con detalles elegantes que añadirá un toque de glamour a tu estilo.",
-            "image": "https://www.dropbox.com/s/utotwcejdcuhqs3/anillo-2.webp?dl=0"
+            "image": "https://www.dropbox.com/s/utotwcejdcuhqs3/anillo-2.webp?raw=1"
         },        
         {
             "id": 25,
@@ -198,7 +198,7 @@
             "price": "$89",
             "category": "anillo",
             "description": "Un anillo delicado y romántico que simboliza el amor eterno.",
-            "image": "https://www.dropbox.com/s/ha0q9sgiivqt0lp/anillo-3.webp?dl=0"
+            "image": "https://www.dropbox.com/s/ha0q9sgiivqt0lp/anillo-3.webp?raw=1"
         },
         {
             "id": 26,
@@ -206,7 +206,7 @@
             "price": "$79",
             "category": "anillo",
             "description": "Un anillo inspirado en la belleza de la naturaleza, con detalles florales encantadores.",
-            "image": "https://www.dropbox.com/s/zpvdh8a8ti3j2dm/anillo-4.webp?dl=0"
+            "image": "https://www.dropbox.com/s/zpvdh8a8ti3j2dm/anillo-4.webp?raw=1"
         },
         {
             "id": 27,
@@ -214,7 +214,7 @@
             "price": "$89",
             "category": "anillo",
             "description": "Un anillo delicado con perlas naturales que añadirá un toque de elegancia a tus manos.",
-            "image": "https://www.dropbox.com/s/dorqfhzzbjhqlrh/anillo-5.webp?dl=0"
+            "image": "https://www.dropbox.com/s/dorqfhzzbjhqlrh/anillo-5.webp?raw=1"
         },
         {
             "id": 28,
@@ -222,7 +222,7 @@
             "price": "$149",
             "category": "anillo",
             "description": "Un anillo clásico y atemporal que refleja la elegancia y la sofisticación.",
-            "image": "https://www.dropbox.com/s/b0jw9ci766b5iwo/anillo-6.webp?dl=0"
+            "image": "https://www.dropbox.com/s/b0jw9ci766b5iwo/anillo-6.webp?raw=1"
         },
         {
             "id": 29,
@@ -230,7 +230,7 @@
             "price": "$109",
             "category": "anillo",
             "description": "Un anillo moderno y llamativo que hará una declaración audaz en tus manos.",
-            "image": "https://www.dropbox.com/s/fneollnroal5ogv/anillo-7.webp?dl=0"
+            "image": "https://www.dropbox.com/s/fneollnroal5ogv/anillo-7.webp?raw=1"
         },
         {
             "id": 30,
@@ -238,7 +238,7 @@
             "price": "$149",
             "category": "auriculares",
             "description": "Auriculares inalámbricos con calidad de sonido excepcional y diseño moderno.",
-            "image": "https://www.dropbox.com/s/rkbuxqbqsk6s2kq/auriculares-7.webp?dl=0"
+            "image": "https://www.dropbox.com/s/rkbuxqbqsk6s2kq/auriculares-7.webp?raw=1"
         },
         {
             "id": 31,
@@ -246,7 +246,7 @@
             "price": "$199",
             "category": "auriculares",
             "description": "Auriculares con cancelación de ruido que te sumergirán en una experiencia de audio sin interrupciones.",
-            "image": "https://www.dropbox.com/s/k6by34hz5vv1ok3/auriculares-6.webp?dl=0"
+            "image": "https://www.dropbox.com/s/k6by34hz5vv1ok3/auriculares-6.webp?raw=1"
         },
         {
             "id": 32,
@@ -254,7 +254,7 @@
             "price": "$79",
             "category": "auriculares",
             "description": "Auriculares deportivos resistentes al agua y con ajuste seguro para acompañarte en tus entrenamientos.",
-            "image": "https://www.dropbox.com/s/zh5751c0is5s0wt/auriculares-5.webp?dl=0"
+            "image": "https://www.dropbox.com/s/zh5751c0is5s0wt/auriculares-5.webp?raw=1"
         },
         {
             "id": 33,
@@ -262,7 +262,7 @@
             "price": "$249",
             "category": "auriculares",
             "description": "Auriculares de alta gama que ofrecen una experiencia de sonido envolvente y detallado.",
-            "image": "https://www.dropbox.com/s/jejlhc2fl8v32jd/auriculares-4.webp?dl=0"
+            "image": "https://www.dropbox.com/s/jejlhc2fl8v32jd/auriculares-4.webp?raw=1"
         },
         {
             "id": 34,
@@ -270,7 +270,7 @@
             "price": "$69",
             "category": "auriculares",
             "description": "Auriculares elegantes con un diseño atractivo y calidad de audio excepcional.",
-            "image": "https://www.dropbox.com/s/d9li45p5chjcjcn/auriculares-3.webp?dl=0"
+            "image": "https://www.dropbox.com/s/d9li45p5chjcjcn/auriculares-3.webp?raw=1"
         },
         {
             "id": 35,
@@ -278,7 +278,7 @@
             "price": "$59",
             "category": "auriculares",
             "description": "Auriculares compactos y ligeros ideales para llevar contigo a todas partes.",
-            "image": "https://www.dropbox.com/s/r54zmm34a321f66/auriculares-2.webp?dl=0"
+            "image": "https://www.dropbox.com/s/r54zmm34a321f66/auriculares-2.webp?raw=1"
         },
         {
             "id": 36,
@@ -286,7 +286,7 @@
             "price": "$129",
             "category": "auriculares",
             "description": "Auriculares diseñados especialmente para gaming, con sonido envolvente y micrófono integrado.",
-            "image": "https://www.dropbox.com/s/3c22jrcbsk6xyk4/auriculares-1.webp?dl=0"
+            "image": "https://www.dropbox.com/s/3c22jrcbsk6xyk4/auriculares-1.webp?raw=1"
         },
         {
             "id": 37,
@@ -294,7 +294,7 @@
             "price": "$59",
             "category": "aretes",
             "description": "Aretes elegantes con perlas brillantes que añadirán un toque de sofisticación a tus orejas.",
-            "image": "https://www.dropbox.com/s/gngbstbgjow1val/aretes-7.webp?dl=0"
+            "image": "https://www.dropbox.com/s/gngbstbgjow1val/aretes-7.webp?raw=1"
         },
         {
             "id": 38,
@@ -302,7 +302,7 @@
             "price": "$49",
             "category": "aretes",
             "description": "Aretes deslumbrantes con cristales brillantes que capturarán la luz y la atención de todos.",
-            "image": "https://www.dropbox.com/s/wb7jg26xkcb029e/aretes-6.webp?dl=0"
+            "image": "https://www.dropbox.com/s/wb7jg26xkcb029e/aretes-6.webp?raw=1"
         },
         {
             "id": 39,
@@ -310,7 +310,7 @@
             "price": "$39",
             "category": "aretes",
             "description": "Aretes minimalistas y versátiles que complementarán cualquier estilo con elegancia sencilla.",
-            "image": "https://www.dropbox.com/s/lzba3ba12571fx3/aretes-5.webp?dl=0"
+            "image": "https://www.dropbox.com/s/lzba3ba12571fx3/aretes-5.webp?raw=1"
         },
         {
             "id": 40,
@@ -318,7 +318,7 @@
             "price": "$69",
             "category": "aretes",
             "description": "Aretes bohemios con detalles colgantes que añadirán un toque de estilo libre y relajado a tus looks.",
-            "image": "https://www.dropbox.com/s/n3lmkx6br5fs049/aretes-4.webp?dl=0"
+            "image": "https://www.dropbox.com/s/n3lmkx6br5fs049/aretes-4.webp?raw=1"
         },
         {
             "id": 41,
@@ -326,7 +326,7 @@
             "price": "$79",
             "category": "aretes",
             "description": "Aretes de aro elegantes y versátiles que se convertirán en tus favoritos para cualquier ocasión.",
-            "image": "https://www.dropbox.com/s/k6ymh3of6l4e9a8/aretes-3.webp?dl=0"
+            "image": "https://www.dropbox.com/s/k6ymh3of6l4e9a8/aretes-3.webp?raw=1"
         },
         {
             "id": 42,
@@ -334,7 +334,7 @@
             "price": "$89",
             "category": "aretes",
             "description": "Aretes llamativos con borlas coloridas que añadirán un toque de diversión y estilo a tus orejas.",
-            "image": "https://www.dropbox.com/s/367l2ybus7kf97z/aretes-2.webp?dl=0"
+            "image": "https://www.dropbox.com/s/367l2ybus7kf97z/aretes-2.webp?raw=1"
         },
         {
             "id": 43,
@@ -342,7 +342,7 @@
             "price": "$59",
             "category": "aretes",
             "description": "Aretes clásicos con perlas atemporales que nunca pasan de moda y siempre se ven elegantes.",
-            "image": "https://www.dropbox.com/s/fpry0sbtol73b7r/aretes-1.webp?dl=0"
+            "image": "https://www.dropbox.com/s/fpry0sbtol73b7r/aretes-1.webp?raw=1"
         },
         {
             "id": 44,
@@ -350,7 +350,7 @@
             "price": "$19",
             "category": "piercing",
             "description": "Stylish stainless steel stud piercing that adds a touch of edge to your look.",
-            "image": "https://www.dropbox.com/s/t4wv690d3qmtd83/piercing-7.webp?dl=0"
+            "image": "https://www.dropbox.com/s/t4wv690d3qmtd83/piercing-7.webp?raw=1"
         },
         {
             "id": 45,
@@ -358,7 +358,7 @@
             "price": "$15",
             "category": "piercing",
             "description": "Classic hoop nose ring made of high-quality materials for a comfortable and fashionable fit.",
-            "image": "https://www.dropbox.com/s/1k5b4ayys57b6f6/piercing-6.webp?dl=0"
+            "image": "https://www.dropbox.com/s/1k5b4ayys57b6f6/piercing-6.webp?raw=1"
         },
         {
             "id": 46,
@@ -366,7 +366,7 @@
             "price": "$25",
             "category": "piercing",
             "description": "Trendy belly ring with a dangling charm that adds a playful and stylish touch to your midriff.",
-            "image": "https://www.dropbox.com/s/ff224wqvp44qos5/piercing-5.webp?dl=0"
+            "image": "https://www.dropbox.com/s/ff224wqvp44qos5/piercing-5.webp?raw=1"
         },
         {
             "id": 47,
@@ -374,7 +374,7 @@
             "price": "$18",
             "category": "piercing",
             "description": "Sleek and versatile lip labret piercing for adding a subtle yet cool detail to your smile.",
-            "image": "https://www.dropbox.com/s/hjkv00zuqzcc8l2/piercing-4.webp?dl=0"
+            "image": "https://www.dropbox.com/s/hjkv00zuqzcc8l2/piercing-4.webp?raw=1"
         },
         {
             "id": 48,
@@ -382,7 +382,7 @@
             "price": "$20",
             "category": "piercing",
             "description": "Trendy cartilage stud piercing that adds a touch of sparkle and style to your ear stack.",
-            "image": "https://www.dropbox.com/s/xvgf8btxh5bbvwo/piercing-3.webp?dl=0"
+            "image": "https://www.dropbox.com/s/xvgf8btxh5bbvwo/piercing-3.webp?raw=1"
         },
         {
             "id": 49,
@@ -390,7 +390,7 @@
             "price": "$16",
             "category": "piercing",
             "description": "Chic tragus ring crafted with attention to detail for a fashionable and unique ear accessory.",
-            "image": "https://www.dropbox.com/s/moei7uelq60yl3t/piercing-2.webp?dl=0"
+            "image": "https://www.dropbox.com/s/moei7uelq60yl3t/piercing-2.webp?raw=1"
         },
         {
             "id": 50,
@@ -398,7 +398,7 @@
             "price": "$22",
             "category": "piercing",
             "description": "Bold and stylish septum clicker piercing that adds an edgy statement to your overall look.",
-            "image": "https://www.dropbox.com/s/dorfstqe2vcdz6z/piercing-1.webp?dl=0"
+            "image": "https://www.dropbox.com/s/dorfstqe2vcdz6z/piercing-1.webp?raw=1"
         }
             
     ]
